@@ -2,8 +2,11 @@
 ## Presale
 
 > Safemoon v1 deployed: https://bscscan.com/tx/0x08278405d40de452ff8d2862a2937d9bc54a43c26a3dff735d56de77b0aca609
+\
 > Safemoon v1 locked tokens: https://dxsale.app/app/pages/dxlockviewv1?id=8&add=0&type=lpdefi&chain=BSC
+\
 > Safemoon v1 presale: https://dxsale.app/app/pages/defipresalev1?saleID=8&chain=BSC
+\
 > Presale Contract: https://bscscan.com/address/0xa8736b9585a01d6dcC1b6E2Fc9dc208552c34b58
 
 - Liquidity: 6.3%
