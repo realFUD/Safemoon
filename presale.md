@@ -7,7 +7,7 @@
 \
 > Safemoon v1 presale: https://dxsale.app/app/pages/defipresalev1?saleID=8&chain=BSC
 \
-> Presale Contract: https://bscscan.com/address/0xa8736b9585a01d6dcC1b6E2Fc9dc208552c34b58
+> Safemoon v1 presale contract: https://bscscan.com/address/0xa8736b9585a01d6dcC1b6E2Fc9dc208552c34b58
 
 - Liquidity: 6.3%
 - Presale: 70%
