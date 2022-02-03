@@ -1,21 +1,22 @@
-Safemoon v1 deployed: https://bscscan.com/tx/0x08278405d40de452ff8d2862a2937d9bc54a43c26a3dff735d56de77b0aca609
-Safemoon v1 locked tokens: https://dxsale.app/app/pages/dxlockviewv1?id=8&add=0&type=lpdefi&chain=BSC
-Safemoon v1 presale: https://dxsale.app/app/pages/defipresalev1?saleID=8&chain=BSC
-Presale Contract: https://bscscan.com/address/0xa8736b9585a01d6dcC1b6E2Fc9dc208552c34b58
+# Safemoon
+## Presale
 
-Liquidity: 6.3%
-Presale: 70%
-Circulating: 23.7%
+> Safemoon v1 deployed: https://bscscan.com/tx/0x08278405d40de452ff8d2862a2937d9bc54a43c26a3dff735d56de77b0aca609
+> Safemoon v1 locked tokens: https://dxsale.app/app/pages/dxlockviewv1?id=8&add=0&type=lpdefi&chain=BSC
+> Safemoon v1 presale: https://dxsale.app/app/pages/defipresalev1?saleID=8&chain=BSC
+> Presale Contract: https://bscscan.com/address/0xa8736b9585a01d6dcC1b6E2Fc9dc208552c34b58
 
-Min .1bnb
-Max 10bnb
+- Liquidity: 6.3%
+- Presale: 70%
+- Circulating: 23.7%
+- Min .1bnb
+- Max 10bnb
+- Softcap: 30bnb
+- Hardcap: 70bnb
 
-Softcap: 30bnb
-Hardcap: 70bnb
+## Wallets
 
-Presale wallets
-
-https://bscscan.com/address/0xb80ebb8fa018d614dc971e6681e70537641f2bcb
+> https://bscscan.com/address/0xb80ebb8fa018d614dc971e6681e70537641f2bcb
 https://bscscan.com/address/0xb77ae9736a848bad03f675bbcaf29e7b4c015d54
 https://bscscan.com/address/0x44be9d3ec4c61f15aeacfa3faaab5d03d3c5a406
 https://bscscan.com/address/0x7c9b5e4aca7588d64c77c0037333917f2464a066
